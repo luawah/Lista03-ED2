@@ -38,6 +38,7 @@ const root = new Node(10, n15, n6);
 module.exports = root;
 
 ```
+<br> Exemplo retirado da segunda questão, da construção de uma árvore binária de busca, com algoritmos de busca recursivos e por iteração <br>
 ## Árvore AVL
 
 Uma árvore de busca binária é uma árvore AVL, se ela tem a propriedade de compensação de altura (equilíbrio de altura) na qual as alturas das subárvores esquerda e direita de cada nó diferem no máximo por uma unidade.
@@ -70,5 +71,4 @@ rbtInsFix(t, node);
  }
 
 ```
-
-
+<br> Exemplo de Inserção em uma Árvore Rubro Negra <br>
